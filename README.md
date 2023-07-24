@@ -16,3 +16,4 @@ MediaPipe에서 **손 랜드마크 모델** 은 직접 좌표 예측을 통해 �
 **tensorflow** : 2.10.0                         
 **OpenCV** : 4.8.0                     
 **MediaPipe** : 0.9.0.1                        
+ 그 외에 librosa, Speech Recognition            
