@@ -19,7 +19,9 @@ MediaPipe에서 **손 랜드마크 모델** 은 직접 좌표 예측을 통해 �
 **tensorflow** : 2.10.0                         
 **OpenCV** : 4.8.0                     
 **MediaPipe** : 0.9.0.1                        
- 그 외에 librosa, pytorch, transformers 라이브러리 사용            
+ 그 외에 librosa, pytorch, transformers 라이브러리 사용        
+                        
+드론은 제로 드론을 사용했으며 제로 드론 컨트롤을 위해 pyirbrain 라이브러리 사용
 ***
 
 # 모션 인식
